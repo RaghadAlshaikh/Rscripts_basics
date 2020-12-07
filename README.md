@@ -7,22 +7,22 @@ https://www.edx.org/professional-certificate/harvardx-data-science
 ***
 ## packages on R
 
-⋅⋅* Installing a single package 
+⋅⋅*Installing a single package 
 ```R
 install.packages("dslabs") 
 ```
 
-⋅⋅* Installing multiple packages at once
+⋅⋅*Installing multiple packages at once
 ```R
 install.packages(c("tidyverse", "dslabs")）
 ```
 
-⋅⋅* List all the installed packages 
+⋅⋅*List all the installed packages 
 ```R
 installed.packages()
 ```
 
-⋅⋅* Load an installed package 
+⋅⋅*Load an installed package 
 ```R
 library(dslabs)
 ```
