@@ -4,6 +4,11 @@ Hello! I'm taking a data scientist program on Edx, and I'll update the code whil
 All the **credits** are for this great program: 
 https://www.edx.org/professional-certificate/harvardx-data-science
 
+Used version
+```R
+R Base 4.0.3
+```
+
 ***
 ## packages on R
 
