@@ -16,6 +16,14 @@ library(dslabs)
 
 #----Packages Installation ends----
 
+#Case Study:US Gun Murders
+#create a plot to visualize the data
+data(murders)
+
+murders %>%
+  ggplot(aes(population, total, label=abb, color=region)) +
+  geom_label()
+
 
 #All the credits are for this great program that I signed up for: 
 # https://www.edx.org/professional-certificate/harvardx-data-science
