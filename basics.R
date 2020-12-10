@@ -24,6 +24,9 @@ murders %>%
   ggplot(aes(population, total, label=abb, color=region)) +
   geom_label()
 
+#-------------
+#Calculate a 15% tip on a meal that costs 19.71$
+0.15*19.71
 
 #All the credits are for this great program that I signed up for: 
 # https://www.edx.org/professional-certificate/harvardx-data-science
