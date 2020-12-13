@@ -5,6 +5,7 @@ All the **credits** are for this great program:
 https://www.edx.org/professional-certificate/harvardx-data-science
 
 Also, special thanks to the R learning course in DataCamp website! 
+Each file will discuss a subject
 
 Used version
 ```R
